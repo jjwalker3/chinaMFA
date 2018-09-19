@@ -3805,3 +3805,124 @@ Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openv
 Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
 1537275192463	Marionette	INFO	Listening on port 65060
 1537275192598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537288448176	geckodriver	INFO	geckodriver 0.21.0
+1537288448182	geckodriver	INFO	Listening on 127.0.0.1:61956
+1537288451223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.Nz9vJWZBv6cf"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537288451748	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537288452530	Marionette	INFO	Listening on port 61965
+1537288452832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537288462401	geckodriver	INFO	geckodriver 0.21.0
+1537288462407	geckodriver	INFO	Listening on 127.0.0.1:61999
+1537288465444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.QLpHqRcr5QVI"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537288465738	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537288466426	Marionette	INFO	Listening on port 62008
+1537288466450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537290119781	geckodriver	INFO	geckodriver 0.21.0
+1537290119787	geckodriver	INFO	Listening on 127.0.0.1:62313
+1537290122817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.xW6rHjruSoc0"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290123126	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290123872	Marionette	INFO	Listening on port 62321
+1537290123930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537290623312	geckodriver	INFO	geckodriver 0.21.0
+1537290623319	geckodriver	INFO	Listening on 127.0.0.1:62426
+1537290626350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.lOgw8zXBuzv9"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290626662	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290627344	Marionette	INFO	Listening on port 62434
+1537290627358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537290800075	geckodriver	INFO	geckodriver 0.21.0
+1537290800081	geckodriver	INFO	Listening on 127.0.0.1:62488
+1537290803101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.w3NT2IY2ozaX"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290803398	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290804068	Marionette	INFO	Listening on port 62496
+1537290804116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537290839301	geckodriver	INFO	geckodriver 0.21.0
+1537290839307	geckodriver	INFO	Listening on 127.0.0.1:62526
+1537290842327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.b4W3bg0m3WuE"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290842644	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537290843310	Marionette	INFO	Listening on port 62534
+1537290843332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537292016055	geckodriver	INFO	geckodriver 0.21.0
+1537292016061	geckodriver	INFO	Listening on 127.0.0.1:62848
+1537292019082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.LTBKOkwxlieb"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537292019388	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537292020104	Marionette	INFO	Listening on port 62858
+1537292020188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537292116411	geckodriver	INFO	geckodriver 0.21.0
+1537292116417	geckodriver	INFO	Listening on 127.0.0.1:62909
+1537292119425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.3hri9gK4n6mV"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537292119736	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537292120416	Marionette	INFO	Listening on port 62917
+1537292120430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537294068591	geckodriver	INFO	geckodriver 0.21.0
+1537294068598	geckodriver	INFO	Listening on 127.0.0.1:63245
+1537294071616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.Xoig0RG9PG2C"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537294071920	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537294072632	Marionette	INFO	Listening on port 63253
+1537294072724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537294131369	geckodriver	INFO	geckodriver 0.21.0
+1537294131375	geckodriver	INFO	Listening on 127.0.0.1:63295
+1537294134407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.5jqIR5TJ78Ld"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537294134710	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537294135372	Marionette	INFO	Listening on port 63304
+1537294135414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537300478037	geckodriver	INFO	geckodriver 0.21.0
+1537300478043	geckodriver	INFO	Listening on 127.0.0.1:60271
+1537300481065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jw\\AppData\\Local\\Temp\\rust_mozprofile.PnJ0kWVxrahd"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537300481376	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
+1537300482084	Marionette	INFO	Listening on port 60284
+1537300482178	Marionette	WARN	TLS certificate errors will be ignored for this session
