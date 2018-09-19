@@ -3785,8 +3785,8 @@ Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openv
 Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
 1537272991416	Marionette	INFO	Listening on port 61518
 1537272991768	Marionette	WARN	TLS certificate errors will be ignored for this session
-1537273399411	geckodriver	INFO	geckodriver 0.21.0
-1537273399424	geckodriver	INFO	Listening on 127.0.0.1:62186
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+399424	geckodriver	INFO	Listening on 127.0.0.1:62186
 1537273402413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jjw4418\\AppData\\Local\\Temp\\rust_mozprofile.bREyAWm6rxZX"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
