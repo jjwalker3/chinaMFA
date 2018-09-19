@@ -3926,3 +3926,45 @@ Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpath
 Unable to read VR Path Registry from C:\Users\jw\AppData\Local\openvr\openvrpaths.vrpath
 1537300482084	Marionette	INFO	Listening on port 60284
 1537300482178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537367753623	geckodriver	INFO	geckodriver 0.21.0
+1537367753648	geckodriver	INFO	Listening on 127.0.0.1:58313
+1537367756653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jjw4418\\AppData\\Local\\Temp\\rust_mozprofile.DGfgjS13Ymzv"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+1537367760252	Marionette	INFO	Listening on port 58321
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+1537367760546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537367817738	geckodriver	INFO	geckodriver 0.21.0
+1537367817752	geckodriver	INFO	Listening on 127.0.0.1:58418
+1537367820772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jjw4418\\AppData\\Local\\Temp\\rust_mozprofile.1e06PE5XdzCC"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+1537367823628	Marionette	INFO	Listening on port 58427
+1537367824023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537367971780	geckodriver	INFO	geckodriver 0.21.0
+1537367971796	geckodriver	INFO	Listening on 127.0.0.1:58491
+1537367974795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jjw4418\\AppData\\Local\\Temp\\rust_mozprofile.FZAHbQhhaddY"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+1537367977740	Marionette	INFO	Listening on port 58500
+1537367978044	Marionette	WARN	TLS certificate errors will be ignored for this session
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Os { code: 10054, kind: ConnectionReset, message: "An existing connection was forcibly closed by the remote host." }', libcore\result.rs:945:5
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+rofile" "C:\\Users\\jjw4418\\AppData\\Local\\Temp\\rust_mozprofile.m5dtr0p50erO"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jjw4418\AppData\Local\openvr\openvrpaths.vrpath
+1537368169967	Marionette	INFO	Listening on port 58616
+1537368170080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fmprc.gov.cn/web/images/linkage.js, line 9: TypeError: ua.match(...) is null
+JavaScript error: https://www.fmprc.gov.cn/web/gjhdq_676201/, line 264: TypeError: Linkage is not a constructor
