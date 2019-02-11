@@ -1,0 +1,30 @@
+        df_train_list = df_train.loc[~trainList,].copy()
+        ytrue_list = df_train_list.loc[df_train_list['Question Type']==qtype,labelledSection]
+        ypred_list = df_train_list.loc[df_train_list['Question Type']==qtype,'PredictProbList']
+        try:
+            trainRocAucScore_NOTlist = roc_auc_score(y_true=ytrue_list,y_score=ypred_list)
+        except:
+            ypred_NOTlist = df_train_list.loc[df_train_list['Question Type']==qtype,'PredictPred']
+            trainRocAucScore_NOTlist = "Acc_" + str(accuracy_score(y_true=ytrue_list,y_pred=ypred_list))
+
+
+        df_test_list = df_test.loc[~testList,].copy()
+        ytrue_list = df_test_list.loc[df_test_list['Question Type']==qtype,labelledSection]
+        ypred_list = df_test_list.loc[df_test_list['Question Type']==qtype,'PredictProbList']
+        try:
+            testRocAucScore_NOTlist = roc_auc_score(y_true=ytrue_list,y_pred=ypred_list)
+        except:
+            ypred_NOTlist = df_test_list.loc[df_test_list['Question Type']==qtype,'PredictPredList']
+            testRocAucScore_NOTlist = "Acc_" + str(accuracy_score(y_true=ytrue_list,y_pred=ypred_list))
+        trainListShape = len(trainList)
+        testListShape = len(testList)
+
+
+
+
+        trainRocAucScore_NOTlist = 0
+        ypred_NOTlist = 0
+        trainRocAucScore_NOTlist = 0
+        testRocAucScore_NOTlist = 0
+        ypred_NOTlist = 0
+        testRocAucScore_NOTlist = 0
